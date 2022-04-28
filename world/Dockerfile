@@ -1,3 +1,4 @@
+#test
 FROM golang as builder
 
 RUN mkdir /build
